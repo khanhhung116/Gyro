@@ -55,7 +55,7 @@ export default class Test extends Component {
 
           <Text style={styles.inputtext}> MZFW :</Text>
           <TextInput style={styles.inputinside}
-            placeholder="nhập đi cờ hó"
+            placeholder="nhập đi cờ hó Hu7ng"
            // value={this.state.text = this.state.tableData.AC}
             onChangeText={(text) => {
               let tempTextMZFW = text;
